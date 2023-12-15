@@ -1,4 +1,5 @@
 import streamlit as st
+st.balloons()
 
 lot3="https://lottie.host/9d7858db-0b59-4395-ae0f-b57203577235/vTJKGelBz0.json"
 lottie3 = load_lottieurl(lot3)
